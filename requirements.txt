@@ -1,0 +1,5 @@
+ctypes
+tk
+psutil
+requests
+pillow
